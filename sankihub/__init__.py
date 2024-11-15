@@ -1,7 +1,7 @@
 '''
-Author    : SANKIXDteam 
-Github    : https://github.com/SANKIXDteam
-Repository: https://github.com/SANKIXDteam/sankihub
+Author    : Teamsanki
+Github    : https://github.com/Teamsanki
+Repository: https://github.com/Teamsanki/sankihub
 '''
 from PIL import Image, ImageFont, ImageDraw
 import os
