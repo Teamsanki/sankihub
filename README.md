@@ -25,5 +25,5 @@ async def sankihub(_, message):
 # sankihub 
 
 
-![Project Image](https://github.com/SANKIXDTEAM/sankihub/blob/main/out.png)
+![Project Image](https://github.com/Teamsanki/sankihub/blob/main/out.png)
 
